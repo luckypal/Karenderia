@@ -1,9 +1,3 @@
-### Important
-```
-LuckyPal IT started this project from Feb 2014 and last version is launched at May 2019.
-Under NDA sign, we can't public source and requirement documents, but you can check project under agreement.
-```
-
 # Karenderia Multiple Restaurant System
 Karenderia Multiple Restaurant System is a restaurant food ordering and restaurant membership system.
 
